@@ -23,7 +23,7 @@
     "@subql/common-flare": "latest",
     "@subql/common-substrate": "workspace:*",
     "@subql/common-terra": "latest",
-    "axios": "^0.24.0",
+    "axios": "^1.6.8",
     "js-yaml": "^4.1.0",
     "package-json-type": "^1.0.3"
   },
