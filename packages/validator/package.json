@@ -16,12 +16,12 @@
     "/dist"
   ],
   "dependencies": {
-    "@subql/common": "workspace:*",
+    "@subql/common": "0.1.0",
     "@subql/common-avalanche": "latest",
     "@subql/common-cosmos": "latest",
     "@subql/common-ethereum": "latest",
     "@subql/common-flare": "latest",
-    "@subql/common-substrate": "workspace:*",
+    "@subql/common-substrate": "0.4.0",
     "@subql/common-terra": "latest",
     "axios": "^0.24.0",
     "js-yaml": "^4.1.0",
