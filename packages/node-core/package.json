@@ -25,7 +25,7 @@
     "@subql/apollo-links": "1.3.0",
     "@subql/common": "workspace:*",
     "@subql/types": "workspace:*",
-    "@subql/utils": "workspace:*",
+    "@subql/utils": "2.6.1",
     "@subql/x-merkle-mountain-range": "^2.0.0-0.1.2",
     "@willsoto/nestjs-prometheus": "^4.4.0",
     "lodash": "^4.17.21",
