@@ -18,9 +18,9 @@
   "dependencies": {
     "@subql/common": "workspace:*",
     "@subql/common-avalanche": "latest",
-    "@subql/common-cosmos": "latest",
+    "@subql/common-cosmos": "4.2.0",
     "@subql/common-ethereum": "latest",
-    "@subql/common-flare": "latest",
+    "@subql/common-flare": "3.8.3",
     "@subql/common-substrate": "workspace:*",
     "@subql/common-terra": "latest",
     "axios": "^0.24.0",
