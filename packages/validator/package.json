@@ -16,9 +16,9 @@
     "/dist"
   ],
   "dependencies": {
-    "@subql/common": "workspace:*",
+    "@subql/common": "0.1.0",
     "@subql/common-avalanche": "latest",
-    "@subql/common-cosmos": "latest",
+    "@subql/common-cosmos": "5.5.0",
     "@subql/common-ethereum": "latest",
     "@subql/common-flare": "latest",
     "@subql/common-substrate": "workspace:*",
