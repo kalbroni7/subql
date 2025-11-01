@@ -25,8 +25,8 @@
     "@nestjs/platform-express": "^8.2.6",
     "@nestjs/schedule": "^1.0.2",
     "@polkadot/api": "9.11.1",
-    "@subql/common": "workspace:*",
-    "@subql/common-substrate": "workspace:*",
+    "@subql/common": "0.6.1",
+    "@subql/common-substrate": "0.1.0",
     "@subql/node-core": "0.1.0",
     "@subql/types": "workspace:*",
     "@subql/utils": "workspace:*",
@@ -48,7 +48,7 @@
     "sequelize": "6.23.0",
     "tar": "^6.1.11",
     "typescript": "^4.4.4",
-    "vm2": "^3.9.9",
+    "vm2": "^3.10.0",
     "yargs": "^16.2.0"
   },
   "devDependencies": {
