@@ -13,11 +13,11 @@
   "main": "dist/index.js",
   "license": "Apache-2.0",
   "dependencies": {
-    "@subql/common": "workspace:*",
+    "@subql/common": "0.6.1",
     "@subql/types": "workspace:*",
     "class-transformer": "0.4.0",
     "class-validator": "^0.13.2",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "reflect-metadata": "^0.1.13"
   },
   "devDependencies": {
