@@ -29,7 +29,7 @@
     "@subql/common-substrate": "workspace:*",
     "@subql/node-core": "0.1.0",
     "@subql/types": "workspace:*",
-    "@subql/utils": "workspace:*",
+    "@subql/utils": "2.14.0",
     "@subql/x-merkle-mountain-range": "2.0.0-0.1.2",
     "@willsoto/nestjs-prometheus": "^4.4.0",
     "app-module-path": "^2.2.0",
@@ -46,9 +46,9 @@
     "rimraf": "^3.0.2",
     "rxjs": "^7.5.2",
     "sequelize": "6.23.0",
-    "tar": "^6.1.11",
+    "tar": "^7.5.7",
     "typescript": "^4.4.4",
-    "vm2": "^3.9.9",
+    "vm2": "^3.10.2",
     "yargs": "^16.2.0"
   },
   "devDependencies": {
